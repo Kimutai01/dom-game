@@ -24,9 +24,10 @@
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@GitHub](https://github.com/Kimutai01)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/kimutai-kiprotich-1b5045216/)
+
 
 
 ## 🤝 Contributing
